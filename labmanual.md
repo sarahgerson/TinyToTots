@@ -76,7 +76,7 @@ This lab manual is licensed under a Creative Commons Attribution - NonCommercial
 
 [Dr Sarah Gerson](https://www.cardiff.ac.uk/people/view/839989-gerson-sarah)
 
-Dr Ross Vanderwert
+[Dr Ross Vanderwert] (https://www.cardiff.ac.uk/people/view/1156557-vanderwert-ross)
 
 ### Affiliated Faculty Members
 
@@ -344,6 +344,7 @@ Tiny To Tots Research Panel Layout
 ### Building layout/room numbers
 
 ![Basement Floorplan](https://github.com/sarahgerson/TinyToTots/blob/master/CUCHDS%20basement.pdf)
+![First Floor Floorplan](https://github.com/sarahgerson/TinyToTots/blob/master/CUCHDS%20Building%20First%20Floor.pdf)
 
 ### Building policies
 
