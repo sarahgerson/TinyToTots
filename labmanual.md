@@ -178,7 +178,7 @@ Updated ethics application information for the School of Psychology can be found
 ### Risk Assessments
 
 Before submitting an ethics application, Risk Assessments need to be completed: 
-https://inside.psych.cf.ac.uk/forms/risk assessment/
+https://inside.psych.cf.ac.uk/forms/risk_assessment/
 
 ### GDPR Compliance
 
