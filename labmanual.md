@@ -1,10 +1,10 @@
 # Lab Manual for Tiny to Tots Research Group
 
-This lab manual was inspired by several others, and borrows heavily from them (e.g., https://github.com/alylab/labmanual & https://ccmorey.github.io/labHandbook/). It’s also a work in progress. If you have ideas about things to add, or what to clarify, feel free to let us (Sarah & Ross) know or start a conversation about it on Slack.
+This lab manual was inspired by several others, and borrows heavily from them (e.g., [Aly Lab](https://github.com/alylab/labmanual) & [Morey Lab](https://ccmorey.github.io/labHandbook/). It’s also a work in progress. If you have ideas about things to add, or what to clarify, feel free to let us (Sarah & Ross) know or start a conversation about it on Slack.
 
 When you join the lab, you’re expected to read this manual and sign a form (*insert link here*) indicating that you have done so.
 
-This lab manual is licensed under a Creative Commons Attribution - NonCommercial 4.0 International License [https://creativecommons.org/licenses/by-nc/4.0/]. If you’re a PI or a trainee in a different lab and want to write your own lab manual, feel free to take inspiration from this one (and cite us!).
+This lab manual is licensed under a [Creative Commons Attribution - NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). If you’re a PI or a trainee in a different lab and want to write your own lab manual, feel free to take inspiration from this one (and cite us!).
 
 - [Lab Manual for Tiny to Tots Research Group](#lab-manual-for-tiny-to-tots-research-group)
   * [Welcome to Tiny to Tots](#welcome-to-tiny-to-tots)
