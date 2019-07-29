@@ -334,13 +334,13 @@ Tiny To Tots Research Panel Layout
 
 ### Logos and Images
 
-![Tiny to Tots Logo](https://github.com/sarahgerson/TinyToTots/blob/master/TinyToTots_transp_background_no%20text.png)
+![Tiny to Tots Logo](https://github.com/sarahgerson/TinyToTots/blob/sarahgerson-images/TinyToTots_transp_background_no%20text.png)
 
-![CUCHDS Logo](https://github.com/sarahgerson/TinyToTots/blob/master/CUCHDS.jpg)
+![CUCHDS Logo](https://github.com/sarahgerson/TinyToTots/blob/sarahgerson-images/CUCHDS.jpg)
 
-![School of Psychology Logo](https://github.com/sarahgerson/TinyToTots/blob/master/school%20of%20psychology%20logo.jpg)
+![School of Psychology Logo](https://github.com/sarahgerson/TinyToTots/blob/sarahgerson-images/school%20of%20psychology%20logo.jpg)
 
-![Cardiff University Logo](https://github.com/sarahgerson/TinyToTots/blob/master/CardiffUniversityLogo.jpg)
+![Cardiff University Logo](https://github.com/sarahgerson/TinyToTots/blob/sarahgerson-images/CardiffUniversityLogo.jpg)
 
 ## Lab Meetings and Other Relevant Seminars/Colloquium
 
@@ -350,8 +350,8 @@ Tiny To Tots Research Panel Layout
 
 ### Building layout/room numbers
 
-![Basement Floorplan](https://github.com/sarahgerson/TinyToTots/blob/master/CUCHDS%20basement.pdf)
-![First Floor Floorplan](https://github.com/sarahgerson/TinyToTots/blob/master/CUCHDS%20Building%20First%20Floor.pdf)
+![Basement Floorplan](https://github.com/sarahgerson/TinyToTots/blob/sarahgerson-images/CUCHDS%20basement.pdf)
+![First Floor Floorplan](https://github.com/sarahgerson/TinyToTots/blob/sarahgerson-images/CUCHDS%20Building%20First%20Floor.pdf)
 
 ### Building policies
 
