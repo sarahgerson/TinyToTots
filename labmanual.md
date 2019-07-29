@@ -20,6 +20,7 @@ This lab manual is licensed under a [Creative Commons Attribution - NonCommercia
     + [Testing and Communicating with Participants](#testing-and-communicating-with-participants)
     + [Testing Developmental Populations](#testing-developmental-populations)
     + [Scientific Integrity](#scientific-integrity)
+    + [Authorship Guidelines](#authorship-guidelines)
   * [General Policies & Guidance](#general-policies---guidance)
     + [DBS Checks](#dbs-checks)
     + [Data Management](#data-management)
@@ -63,7 +64,6 @@ This lab manual is licensed under a [Creative Commons Attribution - NonCommercia
     + [Summer Internships](#summer-internships)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 
 ## Welcome to Tiny to Tots
@@ -153,6 +153,8 @@ Fatima Khalil (Nuffield)
 
 ### Scientific Integrity
 
+### Authorship Guidelines
+
 ## General Policies & Guidance
 
 ### DBS Checks
@@ -217,7 +219,6 @@ As of Summer 2018, the Tiny to Tots Research Panel became GDPR compliant in line
 ### Building Issues
 
 ### Recommendation Letters
-
 
 ## Lab Resources
 
