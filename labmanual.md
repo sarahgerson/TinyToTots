@@ -74,7 +74,7 @@ This lab manual is licensed under a Creative Commons Attribution - NonCommercial
 
 ### Principle Investigators
 
-![Dr Sarah Gerson](https://www.cardiff.ac.uk/people/view/839989-gerson-sarah)
+[Dr Sarah Gerson](https://www.cardiff.ac.uk/people/view/839989-gerson-sarah)
 
 Dr Ross Vanderwert
 
