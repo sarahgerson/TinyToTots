@@ -108,35 +108,39 @@ Fatima Khalil (Nuffield)
 
 ### Current and Recent Collaborators
 
-Professor Harold Bekkering, Radboud Universiteit Nijmegen, The Netherlands
+[Dr Sarah Beck, University of Birmingham, UK](https://www.birmingham.ac.uk/staff/profiles/psychology/beck-sarah.aspx)
 
-Dr Kimberly Cuevas, University of Connecticut, USA
+[Professor Harold Bekkering, Radboud Universiteit Nijmegen, The Netherlands](https://www.ru.nl/english/people/bekkering-h/)
 
-Professor Nathan Fox, University of Maryland, USA
+[Dr Emily Burdett, University of Nottingham, UK](https://www.nottingham.ac.uk/psychology/people/emily.burdett)
 
-Dr Elena Geangu, University of York, UK
+[Dr Kimberly Cuevas, University of Connecticut, USA](https://psych.uconn.edu/faculty/kimberly-cuevas/)
 
-Dr Lauren Howard, Franklin and Marshall University, USA
+[Professor Nathan Fox, University of Maryland, USA](https://education.umd.edu/directory/nathan-fox)
 
-Professor Sabine Hunnius, Radboud Universiteit Nijmegen, The Netherlands
+[Dr Elena Geangu, University of York, UK](https://www.york.ac.uk/psychology/staff/academicstaff/geangu,-elena/)
 
-Dr Marlene Meyer, Radboud Universiteit Nijmegen, The Netherlands
+[Dr Lauren Howard, Franklin and Marshall College, USA](https://www.fandm.edu/lauren-howard)
 
-Dr Claire Monroy, Ohio State University, USA
+[Professor Sabine Hunnius, Radboud Universiteit Nijmegen, The Netherlands](https://www.ru.nl/english/people/hunnius-s/)
 
-Professor Charles A Nelson, Harvard University, USA
+[Dr Marlene Meyer, Radboud Universiteit Nijmegen, The Netherlands](https://www.ru.nl/english/people/meyer-m/)
 
-Dr Áine Ni Choisdealbha, University of Cambridge, UK
+[Dr Claire Monroy, Ohio State University, USA](https://www.researchgate.net/profile/Claire_Monroy)
 
-Dr Magdalena Rychlowksa, Queen's University Belfast, UK
+[Professor Charles A Nelson, Harvard University, USA](https://www.hms.harvard.edu/dms/neuroscience/fac/nelson.php)
 
-Dr Amanda Seed, University of St Andrews, UK
+[Dr Áine Ni Choisdealbha, University of Cambridge, UK](https://www.cne.psychol.cam.ac.uk/people/aine-ni-choisdealbha)
 
-Dr Johanna van Schaik, Vrije Universiteit Amsterdam, The Netherlands
+[Dr Magdalena Rychlowksa, Queen's University Belfast, UK](https://pure.qub.ac.uk/portal/en/persons/magdalena-rychlowska(14a6b24c-e602-4ec5-9faa-da1be307e3e9).html)
 
-Dr Netta Weinstein, Cardiff University, UK
+[Dr Amanda Seed, University of St Andrews, UK](https://risweb.st-andrews.ac.uk/portal/en/persons/amanda-madeleine-seed(70b78cbb-0fb6-4731-80a4-e88343a343bf).html)
 
-Professor Amanda Woodward, University of Chicago, USA
+[Dr Johanna van Schaik, Vrije Universiteit Amsterdam, The Netherlands](https://research.vu.nl/en/persons/johanna-van-schaik)
+
+[Dr Netta Weinstein, Cardiff University, UK](https://www.cardiff.ac.uk/people/view/1156562-weinstein-netta)
+
+[Professor Amanda Woodward, University of Chicago, USA](https://psychology.uchicago.edu/directory/amanda-woodward)
 
 
 ## Code of Conduct
