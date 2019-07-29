@@ -169,7 +169,16 @@ Professor Amanda Woodward, University of Chicago, USA
 
 ### Ethics
 
+Ethics paperwork should be drafted as early as possible. The School of Psychology Ethics Committee meets once per month, and all Box B proposals (most proposals involving minors fall under this category) need to be reviewed by the committee before being approved.
+
+Proforma Guidance Notes (for the School of Psychology Ethics Committee) and example applications can be found in the rds drive under ADMIN/Ethics & Risk Assessments/Ethics
+
+Updated ethics application information for the School of Psychology can be found on Inside Psych: https://inside.psych.cf.ac.uk/staff/ethics/application/
+
 ### Risk Assessments
+
+Before submitting an ethics application, Risk Assessments need to be completed: 
+https://inside.psych.cf.ac.uk/forms/risk assessment/
 
 ### GDPR Compliance
 
@@ -217,6 +226,19 @@ As of Summer 2018, the Tiny to Tots Research Panel became GDPR compliant in line
 ### Slack
 
 https://tinytotots.slack.com
+
+Slack is a work-based messenger that members of the Tiny To Tots team use to communicate with each other. This acts as a nice alternative to keeping track of email threads. We use this messenger to communicate about projects (most projects have their own Channel), chat in small groups or message each other individually.
+
+Please take a bit of time to get familiar with the platform. It's handy to download onto your phone (if you are comfortable doing so). You can find this at the App Store or at Google Play. You should find this guide helpful: https://get.slack.help/hc/en-us/categories/200111606
+
+You can use this channel to communicate with other Tiny To Tots summer interns or members of the team. You can tag users in a message by adding an @ sign and then typing their name to get their attention.
+
+GUIDELINES FOR USE: You can use Slack for any project or work-related conversations. We ask that you are polite and considerate when using Slack. 
+1. Please use appropriate and considerate language. 
+2. Please don’t message users during the night. Everyone needs downtime from work and you can set your account to “snooze” at certain times – please respect the “snooze” hours that users create. If it’s urgent, please email your supervisor.
+3. Please do not spam channels with irrelevant stuff. We all like to have relaxed interactions on Slack and have fun. But remember, we all get notified for each message on a channel which can be distracting. Please use direct messages for more “casual” chats with individuals. 
+4. MOST IMPORTANTLY: Do NOT upload any personal or sensitive participant data onto Slack. We have alternative storage on REDCap and on the shared drive for this purpose.
+@kelsey.frewin and @sgerson are the administrators for Slack so please direct any questions or issues to us about Slack’s usage after checking the Slack guide: https://get.slack.help/hc/en-us/categories/200111606
 
 ### Shared Drive (rds)
 
@@ -315,16 +337,14 @@ Tiny To Tots Research Panel Layout
 
 ## Lab Meetings and Other Relevant Seminars/Colloquium
 
-
-
 ## Cardiff University Centre for Human Developmental Science Information
 
 ### Other PIs
 
 ### Building layout/room numbers
 
-### Building policies
 
+### Building policies
 
 ## Opportunities to Get Involved
 
