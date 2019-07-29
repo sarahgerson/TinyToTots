@@ -343,6 +343,7 @@ Tiny To Tots Research Panel Layout
 
 ### Building layout/room numbers
 
+[CUCHDS basement.pdf]
 
 ### Building policies
 
