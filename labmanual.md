@@ -334,6 +334,13 @@ Tiny To Tots Research Panel Layout
 
 ### Logos and Images
 
+![Tiny to Tots Logo](https://github.com/sarahgerson/TinyToTots/blob/master/TinyToTots_transp_background_no%20text.png)
+
+![CUCHDS Logo](https://github.com/sarahgerson/TinyToTots/blob/master/CUCHDS.jpg)
+
+![School of Psychology Logo](https://github.com/sarahgerson/TinyToTots/blob/master/school%20of%20psychology%20logo.jpg)
+
+![Cardiff University Logo](https://github.com/sarahgerson/TinyToTots/blob/master/CardiffUniversityLogo.jpg)
 
 ## Lab Meetings and Other Relevant Seminars/Colloquium
 
