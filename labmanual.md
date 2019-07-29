@@ -231,6 +231,8 @@ As of Summer 2018, the Tiny to Tots Research Panel became GDPR compliant in line
 
 #### CUCHDS Booking Calendar
 
+https://inside.psych.cf.ac.uk/cuchds/day.php
+
 ### Slack
 
 https://tinytotots.slack.com
@@ -350,11 +352,51 @@ Tiny To Tots Research Panel Layout
 
 ![Cardiff University Logo](https://github.com/sarahgerson/TinyToTots/blob/sarahgerson-images/CardiffUniversityLogo.jpg)
 
+
 ## Lab Meetings and Other Relevant Seminars/Colloquium
+
 
 ## Cardiff University Centre for Human Developmental Science Information
 
+https://www.cardiff.ac.uk/research/explore/research-units/centre-for-human-developmental-science
+
+### Groups within CUCHDS
+
+[Wales Autism Research Centre](https://sites.cardiff.ac.uk/warc/)
+
+[Fertility Studies Group](http://sites.cardiff.ac.uk/fertilitystudies/)
+
+[Neurodevelopmental Assessment Unit](https://www.cardiff.ac.uk/research/explore/research-units/neurodevelopment-assessment-unit)
+
+[Educational Psychology Doctoral Training Programme](https://www.cardiff.ac.uk/study/postgraduate/research/programmes/programme/educational-psychology)
+
+[Wales Adoption Cohort Study](https://www.cardiff.ac.uk/psychology/about-us/engagement/wales-adoption-cohort)
+
 ### Other PIs
+
+Professor Jacky Boivin
+
+Dr Sofia Gameiro
+
+Professor Dale Hay
+
+Andrea Higgins
+
+Dr Catherine Jones
+
+Dr Kate Langley
+
+Professor Sue Leekam
+
+Dr Katherine Shelton
+
+Dr Ian Smillie
+
+Professor Stephanie van Goozen
+
+Dr Elisabeth von dem Hagen
+
+Dr Cerith Waters
 
 ### Building layout/room numbers
 
@@ -370,4 +412,8 @@ Tiny To Tots Research Panel Layout
 ### Final Year Projects
 
 ### Summer Internships
+
+[CUROP](https://www.cardiff.ac.uk/study/undergraduate/why-study-with-us/leaders-in-research/research-opportunities)
+[SPRint](https://inside.psych.cf.ac.uk/learning_central/sprint/index.php)
+[Nuffield](https://www.nuffieldfoundation.org/nuffield-research-placements)
 
