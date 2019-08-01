@@ -159,6 +159,14 @@ Fatima Khalil (Nuffield)
 
 ### DBS Checks
 
+All lab members are required to obtain DBS (Disclosure & Barring Service) clearance. 	Staff requiring a DBS check should contact Andrea Freeman, Human Resources (FreemanA1@cf.ac.uk).  Students requiring a DBS check should contact Charlotte Ackerman, Registry (AckermanCL@cf.ac.uk). 
+
+Undergraduate students can be reimbursed for the fee by submitting an [EXP1](https://intranet.cardiff.ac.uk/students/money/expenses/expenses-claim-procedure) form to psychfinance@cardiff.ac.uk with a request to charge this to the School Undergrad account. Employees and PhD students should discuss the fees directly with Ross & Sarah.
+
+If you are unable to cover the costs of the DBS check upfront (and have these reimbursed after), please contact Ross & Sarah.
+
+Information on the DBS process can be found on the DBS website: https://www.gov.uk/government/organisations/disclosure-and-barring-service 
+
 ### Data Management
 
 #### Writing Your Protocol
@@ -186,6 +194,8 @@ Updated ethics application information for the School of Psychology can be found
 Before submitting an ethics application, Risk Assessments need to be completed: 
 https://inside.psych.cf.ac.uk/forms/risk_assessment/
 
+Examples of full risk assessments for different types of experiments/spaces in CUCHDS can be found in the rds drive in the folder: ADMIN/Ethics & Risk Assessments/Risk Assessments
+
 ### GDPR Compliance
 
 As of Summer 2018, the Tiny to Tots Research Panel became GDPR compliant in line with EU guidelines (for regulation details, see https://gdpr-info.eu/). Importantly, this means that:
@@ -212,9 +222,19 @@ As of Summer 2018, the Tiny to Tots Research Panel became GDPR compliant in line
 
 ### Annual Leave
 
+You are entitled to annual leave as per your contract. You should always notify your supervisor as far in advance as possible before booking leave through the intranet. If currently actively testing, ensure that you also update your availability on relevant lab calendars.
+
 ### Out of Hours Working
 
+All researchers when working out of hours MUST contact security when they start and when they finish.  All researchers must follow the CU out of hours policy.
+
+When working out of hours, there must be at least one other researcher of post-graduate level or above in CUCHDS who is aware of the testing session. They should be informed of the anticipated finishing time of the experiment and when it has ended and the participant has left the building.
+
+Participants must be escorted out of the building when the testing session has finished.
+
 ### Building Access
+
+When starting your position in the lab, we will discuss which rooms within CUCHDS you will need to secure access to. The building entrance, basement entrance, and child side of the basement testing area can all be granted access via university security and your student/employee ID. All other rooms that require key card entry (e.g., PhD and MSc offices, EEG/eyetracking lab, fNIRS lab, coding room, etc) can be granted access via the Psychology key card. PIs (Ross & Sarah) must submit requests to update who has access at each door. When requesting access from the PIs make sure that you include your student or staff ID number.
 
 ### Building Issues
 
