@@ -234,30 +234,56 @@ Participants must be escorted out of the building when the testing session has f
 
 ### Building Access
 
-When starting your position in the lab, we will discuss which rooms within CUCHDS you will need to secure access to. The building entrance, basement entrance, and child side of the basement testing area can all be granted access via university security and your student/employee ID. All other rooms that require key card entry (e.g., PhD and MSc offices, EEG/eyetracking lab, fNIRS lab, coding room, etc) can be granted access via the Psychology key card. PIs (Ross & Sarah) must submit requests to update who has access at each door. When requesting access from the PIs make sure that you include your student or staff ID number.
+When starting your position in the lab, we will discuss which rooms within CUCHDS you will need to secure access to. The building entrance, basement entrance, and child side of the basement testing area can all be granted access via university security and your student/employee ID. All other rooms that require key card entry (e.g., PhD and MSc offices, EEG/eyetracking lab, fNIRS lab, coding room, etc) can be granted access via the Psychology key card. PIs must submit requests to update who has access at each door. When requesting access from the PIs make sure that you include your student or staff ID number.
 
 ![ID](https://github.com/sarahgerson/TinyToTots/blob/images/ID.png?raw=true)
 
+The CUCHDS testing rooms we used include 0.10 and 0.21 on the ground floor, and -1.01, -1.04, -1.05(A), -1.11, -1.12, and -1.14(A-D). Offices include 0.18 (MSc), 1.15 (PhD), and -1.02 (coding room).
+
 ### Building Issues
 
-### Recommendation Letters
+Any issues that arise within the building (e.g., heating, leaks, suspicious smells) should be reported immediately to the PIs so that they can be raised to others as needed. When reporting any issues, please use room numbers and specific information (e.g., dates/times) as much as possible.
 
-### Conference Attendance
+### Recommendation Letters
 
+The 
 
-## Lab Resources
+### Conference Attendance
+
+## Lab Resources
+
+### Equipment
+
+1. EEG: Brain Products actiCHamp 64-channel EEG system (including XX caps ranging in size from XX-XX cm, 2 sets of electrodes, etc)
+
+2. Eye-tracking: In the EEG/Eye-tracking lab, we have a Tobii X2-120. We also have access to additional eye-trackers via [IT equipment rental](https://inside.psych.cf.ac.uk/itloans/week.php?year=2019&month=08&day=01&area=6&room=167): Tobii X2-60, X3-120, TX300
+
+3. Video Cameras: (add info here regarding models/SD cards/etc)
+
+4. NIRS: (add info here once we get this)
 
 ### Email
 
-### Google Calendar
+TinyToTots@cardiff.ac.uk
+TinyToTotsPlay@cardiff.ac.uk
+
+### Google Calendar
+
+Tiny to Tots: Used for notifying the lab group of availability for testing
+Lion Rooms (-1.11 & -1.12): This is used to book these basement testing rooms and should be booked out 30 minutes before an appointment begins for setup.
+Format-- Study Name (Experimenters) Study Time: Parent Name (Parent phone #) & Child Name (Child DOB). Note of additional rooms booked. Note of whether parking is booked.
+Lab 0.10: This is used to book the EEG/eye-tracking lab. When booked for the use of eprime, note that scheduling participants takes priority and those using the lab space for other tasks can be asked to reschedule. As above, when booking for an appointment, book out 30 minutes before apointment begins for setup.
+UG and PG Scheduling: This is to notify others when you will not be available for testing participants. This is relied upon for scheduling and so it is critical that this is updated as frequently and accurately as possible.
 
 #### CUCHDS Booking Calendar
+
+This booking calendar is used to book parking spaces and testing spaces that are shared with other groups within CUCHDS. When booking a testing space, it should be booked out 30 minutes before apointment begins for setup.
 
 https://inside.psych.cf.ac.uk/cuchds/day.php
 
 ### Slack
 
-https://tinytotots.slack.com
+When you join the lab, we will add you to our slack channel for communicating with the research group: https://tinytotots.slack.com
 
 Slack is a work-based messenger that members of the Tiny To Tots team use to communicate with each other. This acts as a nice alternative to keeping track of email threads. We use this messenger to communicate about projects (most projects have their own Channel), chat in small groups or message each other individually.
 
@@ -272,7 +298,9 @@ GUIDELINES FOR USE: You can use Slack for any project or work-related conversati
 4. MOST IMPORTANTLY: Do NOT upload any personal or sensitive participant data onto Slack. We have alternative storage on REDCap and on the shared drive for this purpose.
 @kelsey.frewin and @sgerson are the administrators for Slack so please direct any questions or issues to us about Slack’s usage after checking the Slack guide: https://get.slack.help/hc/en-us/categories/200111606
 
-### Shared Drive (rds)
+### Shared Drive (rds)
+
+
 
 smb://rds.cf.ac.uk/2018/54958125
 
@@ -286,6 +314,8 @@ We use REDCap as our primary database storage system. Below are general instruct
 For information and instructions about the Tiny To Tots Research Panel and recruitment related REDCap projects, please see the “Participant Recruitment” section.
 
 ### Newsletters
+
+Tiny to Tots 
 
 ## Participant Recruitment
 
@@ -354,8 +384,6 @@ Tiny To Tots Research Panel Layout
 
 * Adding and editing records
 
-
-
 ### Facebook and Twitter Pages
 
 ### Social Media Database
@@ -374,15 +402,13 @@ Tiny To Tots Research Panel Layout
 
 ![Cardiff University Logo](https://github.com/sarahgerson/TinyToTots/blob/sarahgerson-images/CardiffUniversityLogo.jpg)
 
+## Lab Meetings and Other Relevant Seminars/Colloquium
 
-## Lab Meetings and Other Relevant Seminars/Colloquium
-
-
-## Cardiff University Centre for Human Developmental Science Information
+## Cardiff University Centre for Human Developmental Science Information
 
 https://www.cardiff.ac.uk/research/explore/research-units/centre-for-human-developmental-science
 
-### Groups within CUCHDS
+### Groups within CUCHDS
 
 [Wales Autism Research Centre](https://sites.cardiff.ac.uk/warc/)
 
@@ -427,13 +453,13 @@ Dr Cerith Waters
 
 ### Building policies
 
-## Opportunities to Get Involved
+## Opportunities to Get Involved
 
 ### Postgraduate Research
 
 ### Final Year Projects
 
-### Summer Internships
+### Summer Internships
 
 [CUROP](https://www.cardiff.ac.uk/study/undergraduate/why-study-with-us/leaders-in-research/research-opportunities)
 [SPRint](https://inside.psych.cf.ac.uk/learning_central/sprint/index.php)
