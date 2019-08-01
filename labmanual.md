@@ -145,17 +145,17 @@ Fatima Khalil (Nuffield)
 
 ## Code of Conduct
 
-### Policies
+### Policies
 
 ### Testing and Communicating with Participants
 
-### Testing Developmental Populations
+### Testing Developmental Populations
 
-### Scientific Integrity
+### Scientific Integrity
 
 ### Authorship Guidelines
 
-## General Policies & Guidance
+## General Policies & Guidance
 
 ### DBS Checks
 
@@ -175,7 +175,7 @@ Information on the DBS process can be found on the DBS website: https://www.gov.
 
 #### Backing Up Data
 
-### Open Science
+### Open Science
 
 ### Public Engagement
 
