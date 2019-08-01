@@ -236,7 +236,7 @@ Participants must be escorted out of the building when the testing session has f
 
 When starting your position in the lab, we will discuss which rooms within CUCHDS you will need to secure access to. The building entrance, basement entrance, and child side of the basement testing area can all be granted access via university security and your student/employee ID. All other rooms that require key card entry (e.g., PhD and MSc offices, EEG/eyetracking lab, fNIRS lab, coding room, etc) can be granted access via the Psychology key card. PIs (Ross & Sarah) must submit requests to update who has access at each door. When requesting access from the PIs make sure that you include your student or staff ID number.
 
-![ID] (https://github.com/sarahgerson/TinyToTots/blob/images/ID.png?raw=true)
+![ID](https://github.com/sarahgerson/TinyToTots/blob/images/ID.png?raw=true)
 
 ### Building Issues
 
