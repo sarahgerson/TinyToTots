@@ -300,7 +300,13 @@ GUIDELINES FOR USE: You can use Slack for any project or work-related conversati
 
 ### Shared Drive (rds)
 
+When you join the lab, the PIs will request for you to have access to our shared network. 
 
+You will need to map a drive to your computer to access the network. Instructions for this can be found (here).
+
+This is used to store confidential data and share files with one another. We also use this to store administrative file (that you see referenced throughout this lab manual). All Ongoing studies will have separate folders that include sub-folders for protocols, lab paperwork, ethics & risk assessment, study materials (scripts and stimuli), raw data, videos, coding, subject lists, and more depending on the format of the experiment(s). 
+
+All files on this drive are backed up by the university and are 
 
 smb://rds.cf.ac.uk/2018/54958125
 
