@@ -302,7 +302,7 @@ GUIDELINES FOR USE: You can use Slack for any project or work-related conversati
 
 When you join the lab, the PIs will request for you to have access to our shared network. 
 
-You will need to map a drive to your computer to access the network. Instructions for this can be found [here](https://github.com/sarahgerson/TinyToTots/blob/images/Shared-drive-access-request-form.docx).
+You will need to map a drive to your computer to access the network. Instructions for this can be found [here](https://github.com/sarahgerson/TinyToTots/blob/images/Mapping%20to%20drive%20instructions.txt).
 
 This is used to store confidential data and share files with one another. We also use this to store administrative file (that you see referenced throughout this lab manual). All Ongoing studies will have separate folders that include sub-folders for protocols, lab paperwork, ethics & risk assessment, study materials (scripts and stimuli), raw data, videos, coding, subject lists, and more depending on the format of the experiment(s). 
 
