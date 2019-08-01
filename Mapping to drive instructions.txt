@@ -1,0 +1,33 @@
+Tiny To Tots Research Data Storage
+
+Account number: 54958125
+Owner: Dr Ross Vanderwert
+Contact: VanderwertR@cardiff.ac.uk
+
+Access to this shared drive must first be authorised by Ross Vanderwert.
+
+To map this drive to your computer, follow the below instructions.
+
+Windows PC:
+
+1. Open "Computer"
+2. Click on "Map network drive"
+3. In "Folder", enter \\rds.cf.ac.uk\rds\2018\54958125
+4. Tick "Reconnect at logon" and click on "Finish"
+5. You'll now be asked for your Cardiff University credentials. 
+   Use your university username (student number or sap) but prefixed by id\
+   e.g. id\sapkf2  or  id\c123123123
+6. The drive will now map to your PC and the folder will open up. 
+
+Mac:
+
+1. In the "Finder", on the "Go" menu, click on "Connect To Server"
+2. In the "Server Address" box, enter rds.cf.ac.uk
+3. Look through the folders until you find \\rds.cf.ac.uk\rds\2018\54958125
+4. Select the \\rds.cf.ac.uk\rds\2018\54958125 server and click "Connect"
+5. You'll now be asked for your Cardiff University credentials. 
+   Use your university username (student number or sap).
+   e.g. sapkf2  or  c123123123
+6. The serve should now appear on your desktop. Double click on it to open.
+
+
