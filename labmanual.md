@@ -246,7 +246,7 @@ Any issues that arise within the building (e.g., heating, leaks, suspicious smel
 
 ### Recommendation Letters
 
-The 
+The PIs are happy to provide recommendation letters for all students and staff who have worked within the lab. When requesting a letter, please always notify us by email and include an updated CV and either a cover letter written for the position you're applying for or a short description of the position and why you're interested in it so that we can speak to this in our letters.
 
 ### Conference Attendance
 
@@ -263,6 +263,8 @@ The
 4. NIRS: (add info here once we get this)
 
 ### Email
+
+We often communicate with participating families via email and aim to do so in a timely and professional manner at all times. Templates for scheduling, directions, and confirmations of appointments can be found within the rds server in ADMIN/Recruitment/Email Templates.
 
 TinyToTots@cardiff.ac.uk
 TinyToTotsPlay@cardiff.ac.uk
@@ -316,12 +318,13 @@ https://tinytotots-surveys.cardiff.ac.uk/redcap/
 
 REDCap (Research Electronic Data Capture) is a web-browser based software for creating research databases. It’s free to use for academic and non-profit institutions. The Tiny To Tots REDCap system is a secure, multi-user and multi-site software that allows us to safely store our databases. Your REDCap account is linked to your Cardiff University account which ensures that our data is kept safe within Cardiff University.
 
-We use REDCap as our primary database storage system. Below are general instructions for using REDCap. 
-For information and instructions about the Tiny To Tots Research Panel and recruitment related REDCap projects, please see the “Participant Recruitment” section.
+We use REDCap as our primary database storage system. Before gaining access to our database, you will undergo one-on-one training with a trained researcher. A protoocl for RedCap use can be found on the RDS server under ADMIN/Tiny to Tots Research Panel/REDCap
 
 ### Newsletters
 
-Tiny to Tots 
+Tiny to Tots aims to publish bi-annual newsletters to distribute via social media and to all families who have participated in our research. These can also be used for recruitment and public engagement events. Lab members may be asked to provide bio's, photos, or short summaries of research to be included in the newsletter. No photos of participants will be included in the newsletter without explicit permission from the family.
+
+Previous newsletters can be found on the RDS server under ADMIN/Newsletters
 
 ## Participant Recruitment
 
@@ -466,6 +469,10 @@ Dr Cerith Waters
 ### Final Year Projects
 
 ### Summer Internships
+
+Each year, we welcome applicants to work in our lab group via paid internships. Cardiff University and the School of Psychology both offer schemes for funding internships: CUROP & SPRint. CUROP is applied for by the PI and subsequently advertised to students, whereas SPRint positions can be applied for directly by students. If interested in applying for one of these positions, please see links below and contact potential supervisors at your earliest convenience.
+
+We have also hosted pre-university students via the Nuffield Research Placement Scheme (see link below).
 
 [CUROP](https://www.cardiff.ac.uk/study/undergraduate/why-study-with-us/leaders-in-research/research-opportunities)
 [SPRint](https://inside.psych.cf.ac.uk/learning_central/sprint/index.php)
