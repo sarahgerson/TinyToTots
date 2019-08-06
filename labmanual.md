@@ -51,7 +51,6 @@ This lab manual is licensed under a [Creative Commons Attribution - NonCommercia
     + [Facebook and Twitter Pages](#facebook-and-twitter-pages)
     + [Social Media Database](#social-media-database)
     + [Inbox](#inbox)
-    + [Recruitment Email/Letter Templates](#recruitment-email-letter-templates)
     + [Logos and Images](#logos-and-images)
   * [Lab Meetings and Other Relevant Seminars/Colloquium](#lab-meetings-and-other-relevant-seminars-colloquium)
   * [Cardiff University Centre for Human Developmental Science Information](#cardiff-university-centre-for-human-developmental-science-information)
@@ -394,12 +393,12 @@ Tiny To Tots Research Panel Layout
 * Adding and editing records
 
 ### Facebook and Twitter Pages
+https://www.facebook.com/TinyToTots/
+https://twitter.com/CU_TinyToTots
 
 ### Social Media Database
 
 ### Inbox
-
-### Recruitment Email/Letter Templates
 
 ### Logos and Images
 
@@ -412,6 +411,9 @@ Tiny To Tots Research Panel Layout
 ![Cardiff University Logo](https://github.com/sarahgerson/TinyToTots/blob/sarahgerson-images/CardiffUniversityLogo.jpg)
 
 ## Lab Meetings and Other Relevant Seminars/Colloquium
+
+We hold 
+https://www.cardiff.ac.uk/psychology/events/psychology-colloquia
 
 ## Cardiff University Centre for Human Developmental Science Information
 
