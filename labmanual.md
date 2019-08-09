@@ -144,15 +144,70 @@ Fatima Khalil (Nuffield)
 
 ## Code of Conduct
 
-### Policies
+### General Policies
+
+The lab is committed to ensuring a safe, friendly, and accepting environment for everybody. We will not tolerate any verbal or physical harassment or discrimination on the basis of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We will not tolerate intimidation, stalking, following, unwanted photography or video recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Finally, it should go without saying that lewd language and behavior have no place in the lab, including any lab outings. 
+
+Being in lab is a good way of learning from others, helping others, building camaraderie, having fast and easy access to resources (and people) you need, and being relatively free from distractions at home. That said, hours in academia are more flexible than other jobs -- but you should still treat it as a real job (however many hours/week are in your contract, typically 35 hrs/wk) and show up to the lab. Our primary concern is that you get your work done, so if you find that you are more productive at home (lab-mates can be chatty sometimes), feel free to work at home occasionally. If you have no meetings, no participants, and no other obligations that day, it might be a good day to work at home – but you can’t do this all the time, and we expect to see everyone in the lab on a regular basis. 
+
+If you are actively testing, you will need to be in the lab regularly and notify other lab members if you will not be available (and update the appropriate calendar(s) accordingly). When testing, always ensure that you are in the lab at least 30 minutes prior to the participant's arrival and leave time to clean up and do necessary paperwork afterwards.
 
 ### Testing and Communicating with Participants
+
+We always aim to be professional and respectful when interacting with participants and/or family members attending sessions. This includes openly and accurately communicating with them from the point of first contact (typically contacting them to schedule an appointment) until after they have left the lab following their visit. Participants and their families are almost always volunteers who only receive a small prize for participating, and maintaining good relationships with these individuals is critical both on ethical and moral grounds and for the sake of maintaining our reputation in the community in order to continue to be able to recruit new participants and carry out future research. You can find more information regarding templates for how to make first contact with families and how to confirm appointments on the rds server. 
+
+When families visit CUCHDS, we always try to ensure that someone is waiting for them in the lobby when they arrive (and remember that families often arrive early/late) and that they have a phone number for the primary experimenter they will meet that day in case they get lost or are running late. Families are always escorted within CUCHDS and should never be left alone. 
+
+#### Frequently Asked Questions by Families
+
+We have added a FAQ section to our newsletter for families that may be useful as a reminder to lab members as well:
+
+*My baby/child is scheduled to come take part in a study but they are unwell. Should I still bring her/him in?*
+If your little one isn’t feeling well, we suggest that you don’t bring them in until they are better. We always want visiting babies and children to have fun when they come to see us. But if they are unwell, your baby or child may not feel
+themselves and may not be up to participating. We will always be happy to reschedule to another time that works for
+you when your child is feeling well again. Just email us at TinyToTots@cardiff.ac.uk or call us on 079 6778 7930 to
+let us know.
+
+*What if my baby needs to sleep, feed or have their nappy changed when I arrive/in the middle of a study? What if my child needs a snack or toilet break during a study?*
+We will always try to arrange an appointment that fits in around your baby’s schedule. Babies that have slept, eaten
+and have a comfortable nappy are much happier and will enjoy taking part a lot more. If you know your baby eats
+or sleeps at a certain time, let us know when booking in your appointment and we will schedule a time that works
+around this. However, many babies fall asleep on the way to CUCHDS or need a little nap while they are with us. It’s
+also common to need a feeding/changing break before or sometimes during a study. Don’t worry, we are very flexible
+and want to make you and your baby as comfortable as possible. We have changing facilities and can provide you
+with privacy for feeding.
+We know that kids need breaks too. During your visit, we will check in with your child to see if they need to take a break. If you know they will normally eat a snack at the time of their appointment, please bring along a small. They
+can either have this before we get started or take a break in the middle. We have toilet facilities close to all our testing
+spaces, so they can take a toilet break whenever they need to.
+
+*I signed up to the Tiny To Tots Research Panel a while ago, but I’ve still not been invited to a study. Will I receive an invite?*
+Invites to studies are dependent on what studies we are running currently. Each study has a very specific age range
+and criteria that needs to be met before a family can be invited to come take part. So don’t worry, we haven’t forgotten
+about you. We just might not have a study that fits you at the moment. New studies are starting all the time, so we
+hope we will have a new study for you in the very near future.
+
+*I’ve been offered some different appointment times for a study. Can I just show up to one of these?*
+We offer lots of different appointment times to families to try and fit around their schedules. However, it’s important
+to only turn up to a formally scheduled appointment as we need to ensure that our lab is set up and that our team
+is available. Your appointment has been formally scheduled when you have you received one of our confirmation
+emails. If you haven’t received this, please email us at TinyToTots@cardiff.ac.uk or call us on 079 6778 7930 to check
+in before arriving.
+
+*I’ve arrived for my appointment but I can’t seem to get into the CUCHDS building. What should I do?*
+CUCHDS is a busy research centre that has lots of babies and children visiting. For their safety, our front doors do not
+automatically open. Your experimenter will wait for you at reception and should see you when you arrive. However,
+if you’ve arrived early, just ring the doorbell to alert our receptionist or call your experimenter on the number they
+provided and they will come out to meet you. Alternatively, you can call the CUCHDS central line on 029 2087 0354
+to ask for assistance.
 
 ### Testing Developmental Populations
 
 ### Scientific Integrity
 
 ### Authorship Guidelines
+
+APA guidelines: 
+"Authorship credit should reflect the individual's contribution to the study. An author is considered anyone involved with initial research design, data collection and analysis, manuscript drafting, and final approval. However, the following do not necessarily qualify for authorship: providing funding or resources, mentorship, or contributing research but not helping with the publication itself. The primary author assumes responsibility for the publication, making sure that the data are accurate, that all deserving authors have been credited, that all authors have given their approval to the final draft; and handles responses to inquiries after the manuscript is published."
 
 ## General Policies & Guidance
 
